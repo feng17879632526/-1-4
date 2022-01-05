@@ -1,0 +1,13 @@
+﻿  experiment5.cpp
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(277,28): warning C4305: “+=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(283,28): warning C4305: “-=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(289,30): warning C4305: “+=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(295,30): warning C4305: “-=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(301,18): warning C4305: “+=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(304,18): warning C4305: “-=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(307,18): warning C4305: “+=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(310,18): warning C4305: “-=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(313,18): warning C4305: “+=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(316,18): warning C4305: “-=”: 从“double”到“float”截断
+E:\计算机图形学\OpenGLPractice\OpenGLPractice\experiment5.cpp(322,23): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  OpenGLPractice.vcxproj -> E:\计算机图形学\OpenGLPractice\OpenGLPractice\Debug\OpenGLPractice.exe
